@@ -1,9 +1,9 @@
 # Car Salary Prediction (Uzbek cars) Project Overview
 * Created a small system that estimates uzbek cars prices in order to help people buy or sell their own cars with best price on the market.
-* Scraped over 20000 cars descriptions from [avtoelon](https://avtoelon.uz/uz/) using python and Scrapy
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and jupyter notebook
+* Scraped over 20000 cars descriptions from [avtoelon](https://avtoelon.uz/uz/) using python and Scrapy.
+* Engineered features: made new columns, parsed value from the text and removed garbage. 
 * Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
-* Built a client facing API using fastapi
+* Built a client facing API using FastApi.
 
 ## Code and Resources Used 
 **Python Version:** 3.8  
