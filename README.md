@@ -6,12 +6,12 @@
 * Built a client facing API using fastapi
 
 ## Code and Resources Used 
-**Python Version:** 3.8
-**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, fastapi, json, pickle  
-**For Web Framework Requirements:** FastApi 
-**Scraper Github:** https://github.com/bakhtiyorovdilshod/car_price_scrapy 
-**Scraper Article:** https://scrapfly.io/blog/web-scraping-with-scrapy/  
-**FastApi Deployment:** https://testdriven.io/blog/fastapi-machine-learning/
+**Python Version:** 3.8  
+**Packages:** pandas, numpy, sklearn, matplotlib, seaborn, selenium, fastapi, json, pickle    
+**For Web Framework Requirements:** FastApi   
+**Scraper Github:** https://github.com/bakhtiyorovdilshod/car_price_scrapy   
+**Scraper Article:** https://scrapfly.io/blog/web-scraping-with-scrapy/    
+**FastApi Deployment:** https://testdriven.io/blog/fastapi-machine-learning/  
 
 ## Web Scraping
 Tweaked the web scraper github repo (above) to scrape 20000 car postings from avtoelon.uz. With each car, we got the following:
