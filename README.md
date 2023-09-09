@@ -29,3 +29,18 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 *   Removed newline character from all columns.
 *   Made a new column called pozitsiya that parsed from the car name column.
 *   Made transmission, fuel_type columns for each car.
+
+## Model Building
+We use various machine learning algorithms for building our car price prediction model. Here you can see the final results: 
+* Linear Regression: 0.79
+* Ridge: 0.79
+* Lasso: 0.79
+* ElasticNet: 0.79
+* KNeighbors: 0.82
+* RandomForest: 0.83
+* GradientBoost: 0.8
+* ExtraTree: 0.82
+* XGB: 0.83
+
+## Addition
+* Colab: [colab](https://colab.research.google.com/drive/1oVXQu5QxNl0bxrnOcMpzatZR7HrXd4pp#scrollTo=yk73RkMFXtue)
